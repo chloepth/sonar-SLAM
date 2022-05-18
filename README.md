@@ -47,7 +47,6 @@ catkin-tools
 - clone git clone https://github.com/ethz-asl/libnabo.git into your catkin workspace
 - clone https://github.com/ethz-asl/libpointmatcher.git into your catkin workspace
 - clone https://github.com/jake3991/Argonaut.git into your catkin workspace
-- clone https://github.com/borglab/gtsam.git into your catkin workspace
 - build your workspace with catkin build NOT catkin_make
 
 # Sample data
